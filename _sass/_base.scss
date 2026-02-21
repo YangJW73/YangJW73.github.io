@@ -860,6 +860,15 @@ html.transition *:after {
 
 // Extra Markdown style (post Customization)
 .post {
+  .desc {
+    font-size: 1.1rem;
+    font-style: italic;
+    font-weight: 300;
+    color: var(--global-text-color-light);
+    margin-top: -0.5rem;
+    margin-bottom: 1.5rem;
+  }
+
   .post-meta {
     color: var(--global-text-color-light);
     font-size: 0.875rem;
