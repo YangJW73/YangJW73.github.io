@@ -8,6 +8,8 @@ gem 'observer'
 gem 'ostruct'
 gem 'benchmark'
 
+gem 'jekyll-sass-converter', '~> 2.0'
+
 group :jekyll_plugins do
     gem 'classifier-reborn'
     gem 'jekyll'
