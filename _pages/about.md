@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a **Principal Researcher (T12 Expert)** and currently **the head of the Intelligent NPC team** and **the Large Language Model Team** in the AI Engine Department at <a href='https://www.tencent.com'>Tencent Inc.</a>.
+I am a **Principal Researcher (T12 Expert)** and currently **the head of the Intelligent NPC Team** and **the Large Language Model Team** in the AI Engine Department at <a href='https://www.tencent.com'>Tencent Inc.</a>.
 
 In the past few years, I've been dedicated to exploring building intelligent game agents with the help of AI technology, such as **RL-based AI agents** and **LLM-based AI agents** for various types of games.
 
