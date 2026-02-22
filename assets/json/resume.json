@@ -1,41 +1,82 @@
 {
   "basics": {
-    "name": "Jing-Wen Yang",
-    "label": "AI Researcher & Game AI Engineer",
+    "name": "Jing-Wen Yang (J.-W. Yang)",
+    "label": "AI Researcher & AI Engineer",
     "image": "",
     "email": "yanjw_lamda@foxmail.com",
     "phone": "",
     "url": "https://YangJW73.github.io",
-    "summary": "Head of Intelligent NPC Team at Tencent Inc. Dedicated to building intelligent game agents with RL and LLM technologies.",
     "location": {
       "city": "Shenzhen",
       "countryCode": "CN",
       "region": "Guangdong"
-    },
-    "profiles": [
-      {
-        "network": "GitHub",
-        "username": "YangJW73",
-        "url": "https://github.com/YangJW73"
-      }
-    ]
+    }
   },
   "work": [
     {
       "name": "Tencent Inc.",
       "position": "Head of Intelligent NPC Team",
-      "url": "https://www.tencent.com",
-      "startDate": "",
+      "url": "",
+      "startDate": "2022-09-02",
       "endDate": "",
-      "summary": "Leading the research and development of intelligent game agents using RL-based and LLM-based approaches for various types of games.",
+      "summary": "Leading the research and development of intelligent game agents using RL-based approaches for various types of games.",
       "highlights": [
-        "RL-based Game AI",
-        "LLM-based Agents",
-        "Intelligent NPC Design"
+        "Led the team to develop the first commercial game agent based on reinforcement learning, deployed in QQ Speed Mobile.",
+        "Led the team to create the first commercial game agent based on self-play reinforcement learning, applied in Naruto Mobile.",
+        "Led the team to build a system for rapid production of multi-agent cooperative and adversarial agents, deployed in the MOBA game League of Legends: Wild Rift.",
+        "Led the team to develop an agent production system capable of adapting to 3D environments and supporting various skills such as driving, collecting, and combat, applied in several FPS games."
+      ]
+    },
+    {
+      "name": "Tencent Inc.",
+      "position": "Head of Large Language Model Team",
+      "url": "",
+      "startDate": "2025-04-02",
+      "endDate": "",
+      "summary": "Leading the research and development of large language model-based agents for interactive environments.",
+      "highlights": []
+    },
+    {
+      "name": "Tencent Inc.",
+      "position": "Principal Researcher (T12 Expert)",
+      "url": "https://www.tencent.com",
+      "startDate": "2025-05-23",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Nanjing University",
+      "studyType": "Master of Computer Science",
+      "startDate": "2014-09-01",
+      "endDate": "2017-07-01",
+      "url": "https://www.nju.edu.cn/en/",
+      "summary": "I was a member of <a href='https://www.lamda.nju.edu.cn/CH.MainPage.ashx'>LAMDA Group</a>, led by professor <a href='https://cs.nju.edu.cn/zhouzh/'>Zhi-Hua Zhou</a>. In this group, I was focused on studying artificial intelligence and machine learning, supervised by professor <a href='https://cs.nju.edu.cn/zhouzh/'>Zhi-Hua Zhou</a> and professor <a href='https://www.wolai.com/eyounx/dtR1MTyRXS5tP5Cex4KtdK'>Yang Yu</a>. I received my M.Sc. degree in Computer Science and Technology in July 2017.",
+      "highlights":[
+        "Outstanding Graduate of Nanjing University. Nanjing, June, 2017",
+        "Outstanding Master's Thesis in Computer Science and Technology. Nanjing, June, 2017",
+        "Teaching Assistant of the Artificial Intelligence. (for undergraduate students. Spring, 2015)",
+        "First Prize in 1st National Big Data Competition for College Students Chengdu, April, 2015"
+      ]
+    },
+    {
+      "institution": "Nanjing University",
+      "studyType": "Bachelor of Computer Science",
+      "startDate": "2010-09-01",
+      "endDate": "2014-07-01",
+      "url": "https://www.nju.edu.cn/en/",
+      "summary": "I was selected for the <a href='https://www.nju.edu.cn/info/1056/371321.htm'>Elite Project</a> of Nanjing University in September 2010 and enrolled in the <a href='https://dii.nju.edu.cn/'>Kuang Yaming Honors School</a> to study Computer Science. I received my B.Sc. degree in Computer Science in June 2014. In the same year, I was admitted to study for a M.Sc. degree in Nanjing University without entrance examination.",
+      "highlights": [
+        "Excellent Project Completion in the National Undergraduate Innovation Program. Nanjing, June, 2013",
+        "Elite Project Scholarship. Nanjing, November, 2013",
+        "Third Prize in Microsoft's Kinect for Windows Application Design Competition. Nanjing, June, 2013",
+        "Elite Project Scholarship. Nanjing, November, 2012",
+        "Third Prize in SAP Mobile Application Design Competition. Nanjing, May, 2012"
       ]
     }
   ],
-  "education": [],
   "publications": [
     {
       "name": "Core Algorithms of Reinforcement Learning and Its Applications",
@@ -60,7 +101,7 @@
       "keywords": [
         "Policy Optimization",
         "Multi-Agent RL",
-        "Game AI"
+        "Game Theory"
       ]
     },
     {
@@ -69,34 +110,9 @@
       "icon": "fa-solid fa-brain",
       "keywords": [
         "Large Language Models",
-        "Intelligent NPCs",
-        "Interactive Agents"
+        "RL-based Post Training",
+        "Supervised Fine-Tuning"
       ]
     }
-  ],
-  "languages": [
-    {
-      "language": "Chinese",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Game AI",
-      "icon": "fa-solid fa-gamepad",
-      "keywords": [
-        "Reinforcement Learning",
-        "LLM Agents",
-        "NPC Intelligence",
-        "Multi-Agent Systems"
-      ]
-    }
-  ],
-  "projects": []
+  ]
 }
