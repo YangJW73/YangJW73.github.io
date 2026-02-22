@@ -20,7 +20,7 @@ I'm a **Principal Researcher (T12 Expert)** and currently **the Head of the Inte
 
 I'm also the main author of *"Core Algorithms of Reinforcement Learning and Its Applications"*, and the co-author of *"Tencent Game Development Essentials II"*.
 
-In the past few years, I've been dedicated to exploring building intelligent agents using advanced AI technologies, including **Reinforcement Learning (RL) Algorithms, Large Language Models (LLM), Supervised Learning Algorithms** and other related technologies. These agents, which are already deployed in various types of commercial games, shows great capabilities in areas such as driving, combat, collaboration, and adversarial scenarios.
+In the past few years, I've been dedicated to exploring building intelligent agents using advanced AI technologies, including **Reinforcement Learning (RL) Algorithms, Large Language Models (LLM), Supervised Learning Algorithms** and other related technologies. These agents, which are already deployed in various types of commercial games, show great capabilities in areas such as driving, combat, collaboration, and adversarial scenarios.
 
 
 
