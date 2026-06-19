@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Jing-Wen
 middle_name:
 last_name: Yang
-email: yanjw_lamda@foxmail.com
+email: yangjw_lamda@foxmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal academic homepage of Jing-Wen Yang. Research interests include reinforcement learning, game AI, and LLM-based agents.
 footer_text: >
