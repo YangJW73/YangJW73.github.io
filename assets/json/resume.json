@@ -54,7 +54,7 @@
       "endDate": "2017-07-01",
       "url": "https://www.nju.edu.cn/en/",
       "summary": "I was a member of <a href='https://www.lamda.nju.edu.cn/CH.MainPage.ashx'>LAMDA Group</a>, led by professor <a href='https://cs.nju.edu.cn/zhouzh/'>Zhi-Hua Zhou</a>. In this group, I was focused on studying artificial intelligence and machine learning, supervised by professor <a href='https://cs.nju.edu.cn/zhouzh/'>Zhi-Hua Zhou</a> and professor <a href='https://www.wolai.com/eyounx/dtR1MTyRXS5tP5Cex4KtdK'>Yang Yu</a>. I received my M.Sc. degree in Computer Science and Technology in July 2017.",
-      "highlights":[
+      "highlights": [
         "Outstanding Graduate of Nanjing University. Nanjing, June, 2017",
         "Outstanding Master's Thesis in Computer Science and Technology. Nanjing, June, 2017",
         "Teaching Assistant of the Artificial Intelligence. (for undergraduate students. Spring, 2015)",
@@ -98,21 +98,13 @@
       "name": "Reinforcement Learning",
       "level": "Expert",
       "icon": "fa-solid fa-robot",
-      "keywords": [
-        "Policy Optimization",
-        "Multi-Agent RL",
-        "Game Theory"
-      ]
+      "keywords": ["Policy Optimization", "Multi-Agent RL", "Game Theory"]
     },
     {
       "name": "LLM-based Agents",
       "level": "Expert",
       "icon": "fa-solid fa-brain",
-      "keywords": [
-        "Large Language Models",
-        "RL-based Post Training",
-        "Supervised Fine-Tuning"
-      ]
+      "keywords": ["Large Language Models", "RL-based Post Training", "Supervised Fine-Tuning"]
     }
   ]
 }
